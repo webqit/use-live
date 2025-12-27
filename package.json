@@ -33,11 +33,14 @@
     "version:next": "npm version prerelease --preid=next"
   },
   "dependencies": {
-    "@webqit/observer": "^3.8.2",
     "acorn": "^8.8.1",
     "astring": "^1.8.3"
   },
+  "peerDependencies": {
+    "@webqit/observer": "^3.8.14"
+  },
   "devDependencies": {
+    "@webqit/observer": "^3.8.14",
     "chai": "^4.3.4",
     "coveralls": "^3.1.1",
     "esbuild": "^0.14.42",
