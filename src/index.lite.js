@@ -1,4 +1,4 @@
-import Observer from '@webqit/observer';
+import { Observer } from '@webqit/observer';
 import LiveProgramHandle from './runtime/LiveProgramHandle.js';
 import { _$functionArgs } from './util.js';
 import AbstractLiveScript from './AbstractLiveScript.js';

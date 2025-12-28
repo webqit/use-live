@@ -2,7 +2,7 @@
 /**
  * @import
  */
-import Observer from '@webqit/observer';
+import { Observer } from '@webqit/observer';
 import { _isTypeObject } from '../util.js';
 import EventTarget from './EventTarget.js';
 

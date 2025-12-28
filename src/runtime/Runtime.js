@@ -1,4 +1,4 @@
-import Observer from '@webqit/observer';
+import { Observer } from '@webqit/observer';
 import { _await } from '../util.js';
 import { registry } from './hot-module-registry.js';
 import AutoAsyncIterator from './AutoAsyncIterator.js';

@@ -1,4 +1,4 @@
-import Observer from "@webqit/observer";
+import { Observer } from "@webqit/observer";
 
 export default class LiveProgramHandle {
 

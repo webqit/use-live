@@ -3,7 +3,7 @@
  * @import
  */
 import { _await } from '../util.js';
-import Observer from '@webqit/observer';
+import { Observer } from '@webqit/observer';
 import Autorun from './Autorun.js';
 import Scope from './Scope.js';
 
